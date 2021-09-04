@@ -74,5 +74,3 @@ app.listen(process.env.PORT || port, () => {
     console.log(`Server started at port no. : ${port}`);
 })
 
-// const mailChimpApiKey = "359dd7740e7605b4c06eb272f0d31101-us5"
-// const audience_id ="c05a3257c0"
